@@ -1,56 +1,35 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MyClean Payment Page</title>
+    <title>Payment Page</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>MyClean</h1>
+    <div class="payment-container">
+        <div class="left-section">
+            <h2>MyClean</h2>
             <p>Subscribe to MyClean</p>
-            <p class="price">$175.00</p>
-            <p class="billing">Billed monthly</p>
+            <h3>$175.00</h3>
+            <p>Billed monthly</p>
+            <img src="car_image.png" alt="Car Image">
         </div>
-        <div class="car-image">
-            <img src="car-image.png" alt="Car Image">
-        </div>
-        <div class="payment-options">
-            <button>Apple Pay</button>
+        <div class="right-section">
+            <div class="apple-pay">&#xF8FF; Pay</div>
             <p>Or pay with card</p>
+            <input type="email" placeholder="Email">
+            <input type="text" placeholder="Card information">
+            <input type="text" placeholder="MM / YY">
+            <input type="text" placeholder="CVC">
+            <input type="text" placeholder="Name on card">
+            <select>
+                <option>Australia</option>
+                <option>United States</option>
+                <option>United Kingdom</option>
+            </select>
+            <input type="text" placeholder="Zip code">
+            <button>Subscribe</button>
         </div>
-        <form>
-            <div class="form-group">
-                <label for="email">Email</label>
-                <input type="email" id="email" name="email" placeholder="Enter your email">
-            </div>
-            <div class="form-group">
-                <label for="card-number">Card information</label>
-                <input type="text" id="card-number" name="card-number" placeholder="1234 1234 1234 1234">
-                <input type="text" id="expiry-date" name="expiry-date" placeholder="MM / YY">
-                <input type="text" id="cvc" name="cvc" placeholder="CVC">
-            </div>
-            <div class="form-group">
-                <label for="name-on-card">Name on card</label>
-                <input type="text" id="name-on-card" name="name-on-card" placeholder="Enter your name">
-            </div>
-            <div class="form-group">
-                <label for="country">Country or region</label>
-                <select id="country" name="country">
-                    <option value="">Select your country</option>
-                    <!-- Add country options here -->
-                </select>
-            </div>
-            <div class="form-group">
-                <label for="zip">Zip code</label>
-                <input type="text" id="zip" name="zip" placeholder="Enter your zip code">
-            </div>
-            <div class="subscribe-button">
-                <button type="submit">Subscribe</button>
-            </div>
-        </form>
     </div>
 </body>
 </html>
