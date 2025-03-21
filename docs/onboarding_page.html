@@ -11,11 +11,13 @@
         <h1>Welcome to MyClean!</h1>
         <p>Complete your profile to start offering your cleaning services.</p>
         <!-- Mock Profile Details -->
-        <div class="mock-profile">
-            <h2>Profile Overview</h2>
-            <p id="welcomeMessage">[Full Name]</p>
-            <p id="emailDisplay">[Email Address]</p>
+        <div id="profileCard" class="profile-card">
+            <h2>Dynamic Profile Overview</h2>
+            <p><strong>Availability:</strong> <span id="cardAvailability">[Not Set]</span></p>
+            <p><strong>Specialization:</strong> <span id="cardSpec">[Not Set]</span></p>
+            <p><strong>Rate:</strong> <span id="cardRate">[Not Set]</span></p>
         </div>
+        
 
         <!-- Onboarding Form -->
         <form id="onboardingForm">
@@ -95,50 +97,77 @@
         </form>
         
         <script>
-            // Enable/disable availability inputs based on checkbox selection
             document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
-                checkbox.addEventListener('change', (event) => {
-                    const dayHoursInput = document.querySelector(`#${event.target.id}_hours`);
-                    dayHoursInput.disabled = !event.target.checked;
-                });
-            });
+    checkbox.addEventListener('change', (event) => {
+        const dayHoursInput = document.querySelector(`#${event.target.id}_hours`);
+        dayHoursInput.disabled = !event.target.checked; // Enable or disable the text input
+        updateCardAvailability(); // Update the profile card dynamically
+    });
+});
 
-            // Load and display user data from localStorage
-            document.addEventListener("DOMContentLoaded", () => {
-                const fullName = localStorage.getItem("userName") || "[Full Name]";
-                const email = localStorage.getItem("userEmail") || "[Email Address]";
-                document.querySelector("#welcomeMessage").innerText = fullName;
-                document.querySelector("#emailDisplay").innerText = email;
-            });
+// Update profile card dynamically when days are ticked
+function updateCardAvailability() {
+    const days = [];
+    document.querySelectorAll('input[type="checkbox"]:checked').forEach(checkbox => {
+        const day = checkbox.value;
+        days.push(day.charAt(0).toUpperCase() + day.slice(1)); // Capitalize the first letter of each day
+    });
 
-            // Form submission logic
-            document.querySelector("#onboardingForm").addEventListener("submit", function (event) {
-                event.preventDefault(); // Prevent form submission
-        
-                // Collect availability data
-                const availability = [];
-                document.querySelectorAll('input[type="checkbox"]:checked').forEach(checkbox => {
-                    const day = checkbox.value;
-                    const hours = document.querySelector(`#${day}_hours`).value.trim();
-                    availability.push({ day, hours });
-                });
-        
-                const specialization = document.querySelector('input[name="specializations"]:checked').value;
-                const rate = document.querySelector("#rate").value.trim();
-        
-                if (!availability.length || !specialization || !rate) {
-                    alert("Please complete all fields!");
-                    return;
-                }
-        
-                // Store data in localStorage (mock setup)
-                localStorage.setItem("availability", JSON.stringify(availability));
-                localStorage.setItem("specialization", specialization);
-                localStorage.setItem("rate", rate);
-        
-                // Redirect to the dashboard
-                window.location.href = "/dashboard.html";
-            });
+    // Update card availability section with ticked days
+    document.querySelector("#cardAvailability").innerText = days.length ? days.join(", ") : "[Not Set]";
+}
+
+// Update specialization in profile card dynamically
+document.querySelectorAll('input[name="specializations"]').forEach(radio => {
+    radio.addEventListener('change', () => {
+        const spec = document.querySelector('input[name="specializations"]:checked').value;
+        document.querySelector("#cardSpec").innerText = spec.charAt(0).toUpperCase() + spec.slice(1).replace("-", " ");
+    });
+});
+
+// Update rate in profile card dynamically
+document.querySelector("#rate").addEventListener("input", () => {
+    const rate = document.querySelector("#rate").value.trim();
+    document.querySelector("#cardRate").innerText = rate ? `$${rate} AUD/hour` : "[Not Set]";
+});
+
+// Load and display user data from localStorage
+document.addEventListener("DOMContentLoaded", () => {
+    const fullName = localStorage.getItem("userName") || "[Full Name]";
+    const email = localStorage.getItem("userEmail") || "[Email Address]";
+    document.querySelector("#welcomeMessage").innerText = fullName;
+    document.querySelector("#emailDisplay").innerText = email;
+});
+
+// Form submission logic
+document.querySelector("#onboardingForm").addEventListener("submit", function (event) {
+    event.preventDefault(); // Prevent form submission
+
+    const availability = [];
+    document.querySelectorAll('input[type="checkbox"]:checked').forEach(checkbox => {
+        const day = checkbox.value;
+        const hours = document.querySelector(`#${day}_hours`).value.trim();
+        availability.push({ day, hours });
+    });
+
+    const specialization = document.querySelector('input[name="specializations"]:checked')?.value || null;
+    const rate = document.querySelector("#rate").value.trim();
+
+    if (!availability.length || !specialization || !rate) {
+        alert("Please complete all fields!");
+        return;
+    }
+
+    // Store data in localStorage (mock setup)
+    localStorage.setItem("availability", JSON.stringify(availability));
+    localStorage.setItem("specialization", specialization);
+    localStorage.setItem("rate", rate);
+
+    // Redirect to dashboard
+    window.location.href = "/dashboard.html";
+});
+
         </script>
+        
 </body>
 </html>
