@@ -14,9 +14,9 @@
 - The system will handle basic validation of input data.
 
 ## Description: 
-- Iteration 1 : Register and create a profile with all details about the cleaners. Give account of their skills, experience, availability, and service areas.
+- As a user, I want to be able to register and create a profile that displays my skills, experiences, availability so that I can provide professional cleaning services.
 
-## Tasks:.
+## Tasks:
 1. Create a registration form for new users (half day)
     - Design the form layout
     - Implement the form using HTML/CSS
