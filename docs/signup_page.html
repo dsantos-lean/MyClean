@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MyClean Cleaning Company - Sign Up</title>
     <link rel="stylesheet" href="/docs/css/signup.css">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
@@ -22,7 +22,7 @@
         <div class="right">
             <h2>Create an account</h2>
             <p>Create your account, it takes less than a minute. If you already have an account <a href="#">login</a>.</p>
-            <form action="/register" method="POST">
+            <form id="signupForm">
                 <input type="text" name="full_name" placeholder="Full name" required>
                 <input type="email" name="email" placeholder="E-mail address" required>
                 <input type="password" name="password" placeholder="Password" required>
@@ -31,5 +31,55 @@
             </form>
         </div>
     </div>
+    <script>
+        document.querySelector("#signupForm").addEventListener("submit", function (event) {
+            event.preventDefault(); // Prevent default form submission
+    
+            const fullName = document.querySelector('input[name="full_name"]').value.trim();
+            const email = document.querySelector('input[name="email"]').value.trim();
+            const password = document.querySelector('input[name="password"]').value.trim();
+            const confirmPassword = document.querySelector('input[name="confirm_password"]').value.trim();
+    
+            // Regular Expression for basic email validation
+            const emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    
+            // Check if all fields are filled
+            if (!fullName || !email || !password || !confirmPassword) {
+                alert("All fields are required!");
+                return;
+            }
+    
+            // Check if the email format is valid
+            if (!emailPattern.test(email)) {
+                alert("Please enter a valid email address!");
+                return;
+            }
+    
+            // Check password length
+            if (password.length < 6) {
+                alert("Password must be at least 6 characters long!");
+                return;
+            }
+    
+            // Check if passwords match
+            if (password !== confirmPassword) {
+                alert("Passwords do not match!");
+                return;
+            }
+    
+            // Mock profile creation
+            try {
+                localStorage.setItem("userName", fullName); // Save full name
+                localStorage.setItem("userEmail", email);   // Save email
+    
+                // Redirect to onboarding page
+                window.location.href = "/docs/onboarding_page.html";
+            } catch (error) {
+                console.error("Error saving data to localStorage:", error);
+                alert("An unexpected error occurred. Please try again.");
+            }
+        });
+    </script>
+    
 </body>
 </html>

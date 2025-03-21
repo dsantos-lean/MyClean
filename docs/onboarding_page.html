@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Onboarding - MyClean</title>
+    <link rel="stylesheet" href="/docs/css/onboarding_page.css">
+</head>
+<body>
+    <div class="onboarding-container">
+        <h1>Welcome to MyClean!</h1>
+        <p>Complete your profile to start offering your cleaning services.</p>
+        <!-- Mock Profile Details -->
+        <div class="mock-profile">
+            <h2>Profile Overview</h2>
+            <p id="welcomeMessage">[Full Name]</p>
+            <p id="emailDisplay">[Email Address]</p>
+        </div>
+
+        <!-- Onboarding Form -->
+        <form id="onboardingForm">
+            <!-- Availability Section -->
+            <h2>Availability</h2>
+            <div>
+                <label>
+                    <input type="checkbox" name="days" value="monday" id="monday">
+                    Monday
+                </label>
+                <input type="text" name="monday_hours" id="monday_hours" placeholder="Availability (e.g., 9am - 5pm)" disabled>
+            </div>
+            <div>
+                <label>
+                    <input type="checkbox" name="days" value="tuesday" id="tuesday">
+                    Tuesday
+                </label>
+                <input type="text" name="tuesday_hours" id="tuesday_hours" placeholder="Availability (e.g., 9am - 5pm)" disabled>
+            </div>
+            <div>
+                <label>
+                    <input type="checkbox" name="days" value="wednesday" id="wednesday">
+                    Wednesday
+                </label>
+                <input type="text" name="wednesday_hours" id="wednesday_hours" placeholder="Availability (e.g., 9am - 5pm)" disabled>
+            </div>
+            <div>
+                <label>
+                    <input type="checkbox" name="days" value="thursday" id="thursday">
+                    Thursday
+                </label>
+                <input type="text" name="thursday_hours" id="thursday_hours" placeholder="Availability (e.g., 9am - 5pm)" disabled>
+            </div>
+            <div>
+                <label>
+                    <input type="checkbox" name="days" value="friday" id="friday">
+                    Friday
+                </label>
+                <input type="text" name="friday_hours" id="friday_hours" placeholder="Availability (e.g., 9am - 5pm)" disabled>
+            </div>
+            <div>
+                <label>
+                    <input type="checkbox" name="days" value="saturday" id="saturday">
+                    Saturday
+                </label>
+                <input type="text" name="saturday_hours" id="saturday_hours" placeholder="Availability (e.g., 9am - 5pm)" disabled>
+            </div>
+            <div>
+                <label>
+                    <input type="checkbox" name="days" value="sunday" id="sunday">
+                    Sunday
+                </label>
+                <input type="text" name="sunday_hours" id="sunday_hours" placeholder="Availability (e.g., 9am - 5pm)" disabled>
+            </div>
+        
+            <!-- Specializations Section -->
+            <h2>Specializations</h2>
+            <label>
+                <input type="radio" name="specializations" value="general-cleaning" id="general-cleaning">
+                General Cleaning
+            </label>
+            <label>
+                <input type="radio" name="specializations" value="deep-cleaning" id="deep-cleaning">
+                Deep Cleaning
+            </label>
+            <label>
+                <input type="radio" name="specializations" value="bond-cleaning" id="bond-cleaning">
+                Bond Cleaning
+            </label>
+        
+            <!-- Rate Section -->
+            <h2>Set Your Rate</h2>
+            <label for="rate">Hourly Rate (AUD):</label>
+            <input type="number" name="rate" id="rate" placeholder="e.g., 30" required>
+        
+            <button type="submit">Submit Profile</button>
+        </form>
+        
+        <script>
+            // Enable/disable availability inputs based on checkbox selection
+            document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+                checkbox.addEventListener('change', (event) => {
+                    const dayHoursInput = document.querySelector(`#${event.target.id}_hours`);
+                    dayHoursInput.disabled = !event.target.checked;
+                });
+            });
+
+            // Load and display user data from localStorage
+            document.addEventListener("DOMContentLoaded", () => {
+                const fullName = localStorage.getItem("userName") || "[Full Name]";
+                const email = localStorage.getItem("userEmail") || "[Email Address]";
+                document.querySelector("#welcomeMessage").innerText = fullName;
+                document.querySelector("#emailDisplay").innerText = email;
+            });
+
+            // Form submission logic
+            document.querySelector("#onboardingForm").addEventListener("submit", function (event) {
+                event.preventDefault(); // Prevent form submission
+        
+                // Collect availability data
+                const availability = [];
+                document.querySelectorAll('input[type="checkbox"]:checked').forEach(checkbox => {
+                    const day = checkbox.value;
+                    const hours = document.querySelector(`#${day}_hours`).value.trim();
+                    availability.push({ day, hours });
+                });
+        
+                const specialization = document.querySelector('input[name="specializations"]:checked').value;
+                const rate = document.querySelector("#rate").value.trim();
+        
+                if (!availability.length || !specialization || !rate) {
+                    alert("Please complete all fields!");
+                    return;
+                }
+        
+                // Store data in localStorage (mock setup)
+                localStorage.setItem("availability", JSON.stringify(availability));
+                localStorage.setItem("specialization", specialization);
+                localStorage.setItem("rate", rate);
+        
+                // Redirect to the dashboard
+                window.location.href = "/dashboard.html";
+            });
+        </script>
+</body>
+</html>
