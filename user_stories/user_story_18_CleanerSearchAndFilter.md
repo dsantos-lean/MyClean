@@ -11,14 +11,16 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 
 ## Assumptions:
 - User has used the booking page to book a specific service
-- Results are filtered from user specificied inputs (Type, address, date)
+- Results are filtered from user specified inputs (Type, address, date)
 
 ## Description: 
-As a customer, I want the ability to seaXh for and request cleaners
+As a customer, I want the ability to search and filter available cleaners when making a booking, so I can choose from well-performing cleaners.
 
 ## Tasks, see chapter 4.
 
-1. Create a sea
+1. Create a search functionality / widget (1 day)
+  - Implement search parameters (from booking page)
+  - Display a list of cleaners based on search parameters
 
 
 
