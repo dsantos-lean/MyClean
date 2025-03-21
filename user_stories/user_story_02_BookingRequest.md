@@ -14,7 +14,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 - Users have an idea of what type of cleaning service they need
 
 ## Description: 
-As a user, I want to create a booking request for cleaning services
+As a user, I want to create a booking request for cleaning services and see the available cleaners so that I can freely choose who I want to work with.
 
 ## Tasks, see chapter 4.
 
