@@ -14,15 +14,28 @@ body {
 .onboarding-container {
     display: flex;
     flex-direction: column;
-    width: 90%;
-    max-width: 800px;
+    width: 90%; /* Allow responsiveness */
+    max-width: 800px; /* Limit maximum width for readability */
     background-color: white;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
     padding: 20px;
+    margin: auto; /* Center with dynamic spacing */
+    box-sizing: border-box; /* Include padding and borders in width/height */
 }
 
+/* Add responsive height and spacing */
+.onboarding-container > * {
+    margin-bottom: 20px; /* Consistent spacing between elements */
+}
+
+/* For responsiveness on small screens */
+@media (max-width: 600px) {
+    .onboarding-container {
+        width: 95%; /* Adjust width for smaller devices */
+        padding: 15px;
+    }
+}
 /* Headings and Text */
 .onboarding-container h1 {
     text-align: center;
