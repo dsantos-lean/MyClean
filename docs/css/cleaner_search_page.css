@@ -20,12 +20,14 @@ h1 {
 .filters {
     flex: 0.3;
     max-width: 250px;
+    align-items: flex-start; 
 }
 
 .cleaner-grid {
     flex: 0.7;
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start; 
     gap: 20px;
     justify-content: space-around;
 }
