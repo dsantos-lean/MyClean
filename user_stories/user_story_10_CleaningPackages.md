@@ -1,12 +1,11 @@
 # User story title: Cleaning Packages
 
-## Priority: 40 (e.g. latest for iteration-1)
+## Priority: 40 
 
-## Estimation: e.g. 1.5 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 1 day (e.g. estimated before iteration-1)
+## Estimation: 1.5 days
+* Lean: 1 day 
 * Jeomin: 2 days
-- Dea : 2 days
+* Dea : 2 days
 * Adithyan: 3 days
 
 ## Assumptions (if any):
@@ -14,12 +13,12 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Description: 
 As a cleaning company, I want to display the cleaning packages offered by my company.
 
-## Tasks, see chapter 4.
+## Tasks.
 
-1.Create a cleaning packages page for users (one and half day)
+* 1. Create a cleaning packages page for users (1.5 days)
 Design layout
 Add basic styling for user experience
-2. Design the cleaning packages page layout 
+* 2. Design the cleaning packages page layout 
 
 
 
