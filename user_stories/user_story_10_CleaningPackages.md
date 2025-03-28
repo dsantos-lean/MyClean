@@ -16,8 +16,11 @@ As a cleaning company, I want to display the cleaning packages offered by my com
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1.Create a cleaning packages page for users (one and half day)
+Design layout
+Add basic styling for user experience
+2. Design the cleaning packages page layout 
+
 
 
 # UI Design:
