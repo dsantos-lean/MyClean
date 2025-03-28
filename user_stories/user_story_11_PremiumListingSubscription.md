@@ -1,12 +1,11 @@
 # User story title: Premium listing subscription
 
-## Priority: 40 (e.g. latest for iteration-1)
+## Priority: 40
 
-## Estimation: e.g. 3 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 3 days (e.g. estimated before iteration-1)
+## Estimation: 3 days
+* Lean: 3 days 
 * Jeomin: 2 days
-- Dea : 2 days
+* Dea : 2 days
 * Adithyan: 3 days
 
 ## Assumptions (if any):
@@ -16,8 +15,8 @@ As a cleaning company, I want to subscribe to premium listings so that I can get
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
+1. Task 1, Premium listing subscription (3 days)
+2. The users and the cleaning comapny wants to let know through the website about the premium subcription offers
 
 
 # UI Design:
