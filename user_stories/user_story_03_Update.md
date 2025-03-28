@@ -1,10 +1,9 @@
 # User story title: Register and Create a Profile for Individual cleaners.
 
-## Priority: 30 (e.g. latest for iteration-1)
-
-## Estimation: e.g. 2 days
+## Priority: 30
+## Estimation: 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 1 day (e.g. estimated before iteration-1)
+* Lean: 2 days 
 * Jeomin: 2 days
 - Dea : 2 days
 * Adithyan: 3 days

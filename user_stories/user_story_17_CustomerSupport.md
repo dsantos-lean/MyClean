@@ -2,9 +2,9 @@
 
 ## Priority: 40 (e.g. latest for iteration-1)
 
-## Estimation: e.g. 2 days
+## Estimation: e.g. 2.5 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 1 day (e.g. estimated before iteration-1)
+* Lean: 3 day (e.g. estimated before iteration-1)
 * Jeomin: 2 days
 - Dea : 2 days
 * Adithyan: 3 days

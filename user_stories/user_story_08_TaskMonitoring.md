@@ -1,10 +1,10 @@
 # User story title: Task Monitoring
 
-## Priority: 40(e.g. latest for iteration-1)
+## Priority: 40 (e.g. latest for iteration-1)
 
-## Estimation: e.g. 2 days
+## Estimation: e.g. 4 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 1 day (e.g. estimated before iteration-1)
+* Lean: 4 days (e.g. estimated before iteration-1)
 * Jeomin: 2 days
 - Dea : 2 days
 * Adithyan: 3 days

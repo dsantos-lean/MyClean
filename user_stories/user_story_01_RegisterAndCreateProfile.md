@@ -1,4 +1,3 @@
-
 # User story title: Register and Create a Profile for Individual cleaners.
 
 ## Priority: 10 
@@ -14,7 +13,7 @@
 - The system will handle basic validation of input data.
 
 ## Description: 
-- As a user, I want to be able to register and create a profile that displays my skills, experiences, availability so that I can provide professional cleaning services.
+- As a cleaner, I want to be able to register and create a profile that displays my skills, experiences, availability so that I can earn money on from service bookings.
 
 ## Tasks:
 1. Create a registration form for new users (half day)

@@ -2,7 +2,7 @@
 
 ## Priority: 10
 
-## Estimation: e.g. 1 day
+## Estimation: 1 day
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Lean: 0.5 day
 * Jeomin: 1 day
@@ -14,7 +14,7 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 - Users have an idea of what type of cleaning service they need
 
 ## Description: 
-As a user, I want to create a booking request for cleaning services and see the available cleaners so that I can freely choose who I want to work with.
+As a user, I want to create a booking request for cleaning services so I can specify the type of service I need.
 
 ## Tasks, see chapter 4.
 
