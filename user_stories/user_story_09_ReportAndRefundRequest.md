@@ -1,6 +1,6 @@
 # User story title: Report and Refund request
 
-## Priority: 10 (e.g. latest for iteration-1)
+## Priority: 40 (e.g. latest for iteration-1)
 
 ## Estimation: e.g. 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example

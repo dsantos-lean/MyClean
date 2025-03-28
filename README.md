@@ -41,7 +41,7 @@ Total: 2 days
 - Start developing the website.
 ##  User Stories:
 * [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority 10, 1 day 
-* [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md), priority 10, 1 days 
+* [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md), priority 10, 1 day
 * [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), priority XX, YY days 
 * [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md), priority XX, YY days 
 * [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md), priority XX, YY days 
@@ -66,14 +66,15 @@ Total: 2 days
 
 # Assignment-2: Iterations
 
-## Iteration 1 [duration 3-4 weeks], add your start and end dates 
+## Iteration 1 [duration 3-4 weeks], Start Date: 27-Feb | End Date: 28-Mar
 
+* [Link to iteration_1.md](https://github.com/dsantos-lean/MyClean-copy/blob/main/iteration_1.md)
 * Goal is to have 2 iterations during a trimester of teaching.
 * Update the following during each week prac session
 * During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority 10, 1 day 
+2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md), priority 10, 1 day
 
 Total: YY days
 

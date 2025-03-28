@@ -1,6 +1,6 @@
 # User story title: Display company website
 
-## Priority: 10 (e.g. latest for iteration-1)
+## Priority: 50 (e.g. latest for iteration-1)
 
 ## Estimation: e.g. 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
