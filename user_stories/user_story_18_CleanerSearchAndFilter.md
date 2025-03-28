@@ -6,7 +6,7 @@
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Lean: 3 days
 * Jeomin: 2 days
-- Dea : 2 days
+*  Dea : 2 days
 * Adithyan: 3 days
 
 ## Assumptions:
@@ -16,9 +16,10 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 ## Description: 
 As a customer, I want the ability to search and filter available cleaners when making a booking, so I can choose from well-performing cleaners.
 
-## Tasks, see chapter 4.
+## Tasks.
 
-1. Create a search functionality / widget (1 day)
+1. Task Cleaner Search and Filter, Estimated 3 days
+2. Create a search functionality / widget (1 day)
   - Implement search parameters (from booking page)
   - Display a list of cleaners based on search parameters
 
@@ -29,6 +30,6 @@ As a customer, I want the ability to search and filter available cleaners when m
   ![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/ee0c9d2f-a019-4869-8949-a9f7b88cb2fb)
 
 # Completed:
-*To do* add a screenshot of the completed user story
+* Add a screenshot of the completed user story: 
 
 
