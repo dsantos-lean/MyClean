@@ -15,7 +15,7 @@ As a cleaning company, I want to subscribe to premium listings so that I can get
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Premium listing subscription (3 days)
+1. Task 11, Premium listing subscription (3 days)
 2. The users and the cleaning comapny wants to let know through the website about the premium subcription offers
 
 
