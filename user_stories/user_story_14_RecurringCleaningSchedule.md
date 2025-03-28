@@ -1,29 +1,27 @@
 # User story title: Recurring Cleaning Schedule
 
-## Priority: 50 (e.g. latest for iteration-1)
+## Priority: 50
 
-## Estimation: e.g. 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 1 day (e.g. estimated before iteration-1)
+## Estimation: 2 days
+* Lean: 1 day
 * Jeomin: 2 days
 - Dea : 2 days
-* Adithyan: 3 days
+* Adithyan: 2 days
 
 ## Assumptions (if any):
 
 ## Description: 
-As a customer, I want to 
-## Tasks, see chapter 4.
+As a customer, I want to create a recurring cleaning schedule for cleaners using the website.
 
-1. Task 1, Estimation XX days
-2. ...
+## Tasks 4.
+
+1. Task Recurring Cleaning Schedule, Estimation 2 days
+2. Create a recurring cleaning schedule for cleaners.
 
 
 # UI Design:
 
 
 # Completed:
-* (New, not in the textbook) 
 * Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
 
