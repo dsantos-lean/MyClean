@@ -3,13 +3,12 @@
 ## Priority: 10
 
 ## Estimation: 1 day
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 0.5 day
-* Jeomin: 1 day
+- Lean: 0.5 day
+- Jeomin: 1 day
 - Dea : 1 day
-* Adithyan: 2 days
+- Adithyan: 2 days
 
-## Assumptions (if any):
+## Assumptions:
 - Users will see a button to a booking form on the home page
 - Users have an idea of what type of cleaning service they need
 

@@ -1,6 +1,7 @@
 # User story title: Register and Create a Profile for Individual cleaners.
 
 ## Priority: 10 
+
 ## Estimation: 1 day
 - Lean: 0.5 day
 - Jeomin: 1 day

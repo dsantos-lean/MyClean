@@ -1,23 +1,35 @@
-# User story title: Task Monitoring
+# User Story Title: Task Monitoring
 
-## Priority: 40 (e.g. latest for iteration-1)
+## Priority: 40
 
-## Estimation: e.g. 4 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 4 days (e.g. estimated before iteration-1)
-* Jeomin: 2 days
-- Dea : 2 days
-* Adithyan: 3 days
+## Estimation: 4 days  
+- Lean: 4 days  
+- Jeomin: 2 days  
+- Dea: 2 days  
+- Adithyan: 3 days  
 
-## Assumptions (if any):
+## Assumptions:
+- Employees will update their task status on the platform in real time.  
+- Tasks will be assigned to employees by the cleaning company through the system.  
+- Monitoring will include both task progress (e.g., "In Progress," "Completed") and task details (e.g., location, assigned employee, and timeline).  
+- The system will provide a dashboard view for cleaning companies to track task statuses.  
 
-## Description: 
-Version 1 : As a cleaning company, I want the ability to track my employees’ task status.
+## Description:
+As a **cleaning company**, I want the ability to track my employees’ task status so that I can ensure timely service delivery and operational efficiency.
 
-## Tasks, see chapter 4.
+## Tasks
+1. Design Task Status Dashboard (1 day)
+   - Create a dashboard view for cleaning companies to monitor task statuses and assigned employees.
+   - Include filtering options (e.g., by employee name, task progress, or location).
 
-1. Task 1, Estimation XX days
-2. ...
+
+2. Employee Task Update Interface (2 days)
+   - Create an interface for employees to update their task status (e.g., "Pending," "In Progress," "Completed").
+   - Validate input to ensure proper task updates without errors.
+
+3. Notifications for Task Status Changes (1 day)
+   - Implement notifications for cleaning companies to alert them of task updates (e.g., task completion).
+   - Include a log of notifications within the dashboard for review.
 
 
 # UI Design:

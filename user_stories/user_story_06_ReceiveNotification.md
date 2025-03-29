@@ -1,23 +1,34 @@
-# User story title: Receive Notification
+# User Story Title: Receive Notification
 
-## Priority: 30 (e.g. latest for iteration-1)
+## Priority: 30
 
-## Estimation: 3 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 3 days
-* Jeomin: 2 days
-- Dea : 2 days
-* Adithyan: 3 days
+## Estimation: 3 days  
+- Lean: 3 days  
+- Jeomin: 2 days  
+- Dea: 2 days  
+- Adithyan: 3 days  
 
-## Assumptions (if any):
+## Assumptions:
+- Notifications will be triggered automatically when a customer books services through the platform.
+- Notifications will include basic details about the booking (e.g., customer name, date, time, and service type).
+- Notifications will be delivered via email and/or in-app alerts (depending on the cleaner's preferences).
+- The system will store notification data to allow cleaners to review past alerts in their dashboard.
 
-## Description: 
-Version 1 : As an individual cleaner, I want to receive notifications when a customer books my services.
+## Description:
+As an **individual cleaner**, I want to receive notifications when a customer books my services so that I can stay informed and prepared for upcoming appointments.
 
-## Tasks, see chapter 4.
+## Tasks:
+1. Design Notification System (1 day)
+   - Create an interface for cleaners to view notifications in the app.
+   - Implement settings for cleaners to manage notification preferences (e.g., email or in-app alerts).
 
-1. Task 1, Estimation XX days
-2. ...
+2. Implement Booking Trigger (1 day)
+   - Develop backend functionality to trigger notifications when a booking is confirmed.
+   - Ensure notification delivery includes accurate and relevant booking details.
+
+3. **Notification History Storage (1 day)
+   - Set up a database module to store notification data for cleaner accounts.
+   - Include functionality for cleaners to review past notifications in their dashboard.
 
 
 # UI Design:

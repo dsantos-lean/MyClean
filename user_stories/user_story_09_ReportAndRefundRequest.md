@@ -1,24 +1,35 @@
-# User story title: Report and Refund request
+# User Story Title: Report and Refund Request
 
-## Priority: 40 (e.g. latest for iteration-1)
+## Priority: 40
 
 ## Estimation: 5 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 5 days (e.g. estimated before iteration-1)
-* Jeomin: 2 days
-- Dea : 4 days
-* Adithyan: 3 days
+- Lean: 5 days
+- Jeomin: 2 days  
+- Dea: 4 days  
+- Adithyan: 3 days  
 
-## Assumptions (if any):
+## Assumptions:
+- Customers will have access to a dedicated section in the app to report issues and request refunds.  
+- Reports will require submission of details such as the nature of the issue, booking ID, and optionally, supporting evidence (e.g., photos).  
+- The system will notify the cleaning company or cleaner about the report and flag it for resolution.  
+- Refund requests will follow a defined approval process handled by the platform or service provider.  
+- Customers will receive updates on the status of their report or refund request.
 
-## Description: 
-As a customer, I want to report service issues and request refund if the quality of the work is not good.
+## Description:
+As a **customer**, I want to report service issues and request refunds if the quality of the work is not good so that I can ensure accountability and fairness in the platform’s services.
 
-## Tasks, see chapter 4.
+## Tasks
+1. Design Report and Refund Request Form (1 day)
+   - Create a form to collect details about the issue, such as booking ID, issue description, and optional evidence uploads (e.g., photos).  
+   - Ensure the form is user-friendly and accessible.  
 
-1. Task 1, Estimation XX days
-2. ...
+2. Build Refund Request Approval Process (2 days)
+   - Create a workflow for platform admins or cleaning companies to review refund requests and approve/decline them.  
+   - Include automated refund initiation for approved cases.  
 
+3. Customer Updates and Notifications (2 days)
+   - Implement notifications to update customers on the status of their report or refund request.  
+   - Add a section to the customer dashboard for viewing report/refund statuses.  
 
 # UI Design:
 * Mockup design screenshot of report and refund page. https://ninjamock.com/Designer/Workplace/202376642/Page3

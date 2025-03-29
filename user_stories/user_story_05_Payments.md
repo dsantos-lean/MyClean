@@ -1,24 +1,29 @@
-
-# User story title: Payments
+# User Story Title: Payments
 
 ## Priority: 20
 
-## Estimation: 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 1 day
-* Jeomin: 2 days
-- Dea : 2 days
-* Adithyan: 3 days
+## Estimation: 2 days  
+- Lean: 2 days  
+- Jeomin: 2 days  
+- Dea: 2 days  
+- Adithyan: 3 days  
 
-## Assumptions (if any):
+## Assumptions:
+- Users will have a login before accessing the payment section.
+- Payments are tied to specific user accounts to track transactions effectively.
+- The payment section design aligns with the home page layout for a consistent user experience.
 
-## Description: 
-I want to send and receive payments securely through the platform.
+## Description:
+As a **user**, I want to send and receive payments securely through the platform so that all transactions are transparent and trustworthy.
 
-## Tasks, see chapter 4.
+## Tasks
+1. Design Payment Section UI (1 day)
+   - Create a payment button on the home page.
+   - Design a payment form that allows users to input payment details.
 
-1. Task 1, Estimation XX days
-2. ...
+2. Prepare for Future Integration with Booking Process (1 day)
+   - Ensure the payment module is designed to integrate seamlessly with the booking feature in the next iteration.
+   - Add a placeholder or hook for linking payments to bookings.
 
 
 # UI Design:

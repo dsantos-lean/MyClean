@@ -1,25 +1,25 @@
 
-# User story title: Set Availability
+# User Story Title: Set Availability
 
 ## Priority: 20
 
-## Estimation: 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 2 days
-* Jeomin: 2 days
-- Dea : 2 days
-* Adithyan: 3 days
+## Estimation: 2 days  
+- Lean: 2 days  
+- Jeomin: 2 days  
+- Dea: 2 days  
+- Adithyan: 3 days  
 
-## Assumptions (if any):
+## Assumptions:
+- Cleaners will have access to a user-friendly interface to set their availability.
+- Availability includes selecting specific days of the week and defining working hours for each day.
 
-## Description: 
-Version 1 : Cleaners are able to set their available days and hours
+## Description:
+As a **registered cleaner**, I want to set my available days and hours so that customers can view my schedule and book services accordingly.
 
-## Tasks, see chapter 4.
-
-1. Task 1, Estimation XX days
-2. ...
-
+## Tasks:
+1. Develop Availability Selection Interface (2 days)
+   - Design an interface that allows cleaners to select their available days and working hours.
+   - Include dropdowns, checkboxes, or a calendar-like selection for ease of use.
 
 # UI Design:
 * Mockup design screenshot of Availability Page, https://ninjamock.com/Designer/Workplace/202371224/Team

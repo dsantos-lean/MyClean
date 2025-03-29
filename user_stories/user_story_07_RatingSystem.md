@@ -1,23 +1,34 @@
-# User story title: RatingSystem
+# User Story Title: RatingSystem
 
-## Priority: 30 (e.g. latest for iteration-1)
+## Priority: 30
 
-## Estimation: 1 day
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Lean: 1 day (e.g. estimated before iteration-1)
-* Jeomin: 2 days
-- Dea : 1 day
-* Adithyan: 3 days
+## Estimation: 3 days  
+- Lean: 3 days
+- Jeomin: 2 days  
+- Dea: 1 day  
+- Adithyan: 3 days  
 
-## Assumptions (if any):
+## Assumptions:
+- Customers will rate and review cleaners after completing a service.  
+- Ratings are numeric (e.g., 1 to 5 stars) and reviews are optional written feedback.  
+- Cleaners' ratings and reviews are aggregated and displayed on their profiles.  
+- Data privacy is maintained—reviews will not include sensitive customer information.  
 
-## Description: 
-I want to see performance ratings and reviews for each of my cleaners.
+## Description
+As a **user**, I want to see performance ratings and reviews for each of my cleaners so that I can evaluate their service quality before booking.
 
-## Tasks, see chapter 4.
+## Tasks
+1. Design Rating and Review Submission UI (half day)
+   - Create an interface for customers to rate and review cleaners after service completion.
+   - Include fields for numeric ratings and optional written feedback.
 
-1. Task 1, Estimation XX days
-2. ...
+2. Implement Rating Aggregation Logic (1.5 days)
+   - Develop backend logic to calculate and display the average rating for each cleaner.
+   - Ensure reviews are linked to corresponding cleaners and stored securely.
+
+3. Display Ratings and Reviews on Profiles (half day)
+   - Update cleaner profiles to showcase aggregated ratings and recent reviews.
+   - Design profile sections to make ratings visually appealing (e.g., star icons).
 
 
 # UI Design:
