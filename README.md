@@ -14,7 +14,7 @@ Group members:
 4. Adithyan Jayan
 
 
-# Assignment-1: project planning BEFORE iteration-1, (see chapters 1-3)
+# Assignment-1: project planning BEFORE iteration-1
 ## Week 1
 - Forming group
 - Discussing about given cleaning websites.
@@ -40,25 +40,25 @@ Total: 2 days
 - Break out user stories into tasks
 - Start developing the website.
 ##  User Stories:
+* User stories:
 * [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority 10, 1 day 
 * [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md), priority 10, 1 day
-* [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), priority XX, YY days 
-* [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md), priority XX, YY days 
-* [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md), priority XX, YY days 
-* [user_story_06_Receive Notification](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_06_ReceiveNotification.md), priority XX, YY days 
-* [user_story_07_Rating System](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_07_RatingSystem.md), priority XX, YY days 
-* [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), priority XX, YY days 
-* [user_story_09_Report And Refund Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), priority XX, YY days 
-* [user_story_10_Cleaning Packages](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_10_CleaningPackages.md), priority XX, YY days 
-* [user_story_11_Premium Listing Subscription](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_11_PremiumListingSubscription.md), priority XX, YY days 
-* [user_story_12_Display Company Website](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), priority XX, YY days 
-* [user_story_13_FavouriteCleaner](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_13_FavouriteCleaner.md), priority XX, YY days 
-* [user_story_14_Recurring Cleaning Schedule](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_14_RecurringCleaningSchedule.md), priority XX, YY days 
-* [user_story_15_Background Verification](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_15_BackgroundVerification.md), priority XX, YY days 
-* [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority XX, YY days 
-* [user_story_17_Customer Support](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_17_CustomerSupport.md), priority XX, YY days 
-* [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority XX, YY days 
-* Sample User Story text
+* [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), priority 30, 2 days 
+* [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md), priority 20, 2 days 
+* [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md), priority 20, 2 days 
+* [user_story_06_Receive Notification](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_06_ReceiveNotification.md), priority 30, 3 days 
+* [user_story_07_Rating System](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_07_RatingSystem.md), priority 30, 3 days 
+* [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), priority 40, 4 days 
+* [user_story_09_Report And Refund Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), priority 40, 5 days 
+* [user_story_10_Cleaning Packages](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_10_CleaningPackages.md), priority 40, 3 day 
+* [user_story_11_Premium Listing Subscription](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_11_PremiumListingSubscription.md), priority 40, 3 days 
+* [user_story_12_Display Company Website](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), priority 50, 1 day 
+* [user_story_13_FavouriteCleaner](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_13_FavouriteCleaner.md), priority 50, 1 day 
+* [user_story_14_Recurring Cleaning Schedule](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_14_RecurringCleaningSchedule.md), priority 50, 2 days 
+* [user_story_15_Background Verification](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_15_BackgroundVerification.md), priority 40, 4 days 
+* [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority 40, 4 days 
+* [user_story_17_Customer Support](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_17_CustomerSupport.md), priority 40, 2.5 days 
+* [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority 10, 3 days  
 
 
 
