@@ -31,11 +31,19 @@ User stories:
 
 In progress:
 * Task-2 (developer name or initials), date started
-* ...
+1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), LeanDS, 28/02/2025 
+2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md),Lean DS,28/02/2025
+3. [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md), DeaRoys,28/02/2025
+4. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md),DeaRoys, 28/02/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
-* ...
+1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md),LeanDS, 21/03/2025 
+2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md),LeanDS,21/03/2025
+3. [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md),DeaRoys, 21/03/2025
+4. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md),DeaRoys, 21/03/2025
+
+
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
