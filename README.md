@@ -80,7 +80,9 @@ Total: YY days
 
 
 ### Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
+
+* [Link to iteration_2.md](https://github.com/dsantos-lean/MyClean-copy/blob/main/iteration_2.md)
+
 1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
 2. ...
 
