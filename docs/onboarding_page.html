@@ -139,6 +139,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.querySelector("#emailDisplay").innerText = email;
 });
 
+
 // Form submission logic
 document.querySelector("#onboardingForm").addEventListener("submit", function (event) {
     event.preventDefault(); // Prevent form submission
@@ -163,8 +164,8 @@ document.querySelector("#onboardingForm").addEventListener("submit", function (e
     localStorage.setItem("specialization", specialization);
     localStorage.setItem("rate", rate);
 
-    // Redirect to dashboard
-    window.location.href = "/dashboard.html";
+    // Redirect to profile page
+    window.location.href = "/docs/profile_page.html";
 });
 
         </script>

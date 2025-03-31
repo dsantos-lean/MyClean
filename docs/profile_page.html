@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile - MyClean</title>
+    <link rel="stylesheet" href="/docs/css/onboarding_page.css">
+</head>
+<body>
+    <div class="onboarding-container">
+        <h1>Your Profile</h1>
+        <p>Review and manage your profile details below.</p>
+        <!-- Profile Card -->
+        <div class="profile-card">
+            <h2>Profile Information</h2>
+            <div>
+                <strong>Photo:</strong>
+                <div>
+                    <img id="profilePhoto" src="/docs/images/default-profile.png" alt="Profile Photo" style="width: 100px; height: 100px; border-radius: 50%;">
+                    <form id="photoUploadForm" style="margin-top: 10px;">
+                        <label for="photoUpload">Upload a Profile Photo:</label>
+                        <input type="file" id="photoUpload" accept="image/*">
+                    </form>
+                </div>
+            </div>
+            <p><strong>Full Name:</strong> <span id="fullName">[Full Name]</span></p>
+            <p><strong>Email:</strong> <span id="email">[Email]</span></p>
+            <p><strong>Availability:</strong> <span id="availability">[Not Set]</span></p>
+            <p><strong>Service Offered:</strong> <span id="serviceOffered">[Not Set]</span></p>
+            <p><strong>Rate:</strong> <span id="rate">[Not Set]</span></p>
+        </div>
+        <button onclick="goToHomePage()">Home</button>
+    </div>
+
+    <script>
+
+        // Helper function to capitalize the first letter of each word
+        function capitalizeFirstLetter(str) {
+            return str.split(' ')
+                    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                    .join(' ');
+        }
+
+        // Mock data retrieval from localStorage
+        document.addEventListener("DOMContentLoaded", () => {
+            const fullName = localStorage.getItem("userName") || "John Doe";
+            const email = localStorage.getItem("userEmail") || "johndoe@example.com";
+            const availability = JSON.parse(localStorage.getItem("availability")) || [];
+            const specialization = localStorage.getItem("specialization") || "General Cleaning";
+            const rate = localStorage.getItem("rate") || "30";
+
+            document.getElementById("fullName").innerText = fullName;
+            document.getElementById("email").innerText = email;
+
+        const availabilityFormatted = availability.length
+            ? availability
+                .map(item => `${capitalizeFirstLetter(item.day)}: ${item.hours}`)
+                .join(", ")
+            : "[Not Set]";
+        document.getElementById("availability").innerText = availabilityFormatted;
+
+
+            document.getElementById("serviceOffered").innerText = specialization;
+            document.getElementById("rate").innerText = `$${rate} AUD/hour`;
+        });
+
+        // Photo upload handler
+        document.getElementById("photoUpload").addEventListener("change", (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function (e) {
+                    document.getElementById("profilePhoto").src = e.target.result;
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // Redirect to the home page
+        function goToHomePage() {
+            window.location.href = "/index.html"; // Adjust the path to your home page if needed
+        }
+
+
+        
+    </script>
+</body>
+</html>
