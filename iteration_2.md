@@ -9,7 +9,7 @@ Checklist:
 * Total estimated amount of work: YY days
 
 User stories or tasks (see chapter 4):
-1. 1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority 10, 1 day 
+1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority 10, 1 day 
 2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md), priority 10, 1 day
 3. [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), priority 30, 2 days 
 4. [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md), priority 20, 2 days 
