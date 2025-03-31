@@ -14,7 +14,13 @@ User stories or tasks (see chapter 4):
 
 In progress:
 * Task-2 (developer name or initials), date started
-* ...
+* User story 03 - Update profile (LeanDS), 31/03/2025
+* User story 08 - Task monitoring (Lean DS), 31/03/2025
+* User story 09 - Report and Refund Request(Jeomin), 31/03/2025
+* User story 12 - Display company website (Adithyan), 31/03/2025
+* User story 16 - Private Communication (DeaRoys), 31/03/2025
+* User story 19 - Sign up for users (Adithyan), 31/03/2025
+* User story 21 - Sign up for companies (Adithyan), 31/03/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
