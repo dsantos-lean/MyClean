@@ -30,11 +30,11 @@ User stories or tasks (see chapter 4):
 
 In progress:
 * Task-2 (developer name or initials), date started
-* User story 03 - Update profile (LeanDS), 31/03/2025
-* User story 08 - Task monitoring (Lean DS), 31/03/2025
-* User story 09 - Report and Refund Request(Jeomin), 31/03/2025
-* User story 12 - Display company website (Adithyan), 31/03/2025
-* User story 16 - Private Communication (DeaRoys), 31/03/2025
+* [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), (LeanDS), 31/03/2025
+* [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Lean DS), 31/03/2025
+* [user_story_09_Report And Refund Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), (Jeomin), 31/03/2025
+* [user_story_12_Display Company Website](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), (Adithyan), 31/03/2025
+* [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), (DeaRoys), 31/03/2025
 * User story 19 - Sign up for users (Adithyan), 31/03/2025
 * User story 21 - Sign up for companies (Adithyan), 31/03/2025
 
