@@ -34,5 +34,6 @@
 
 # Completed:
 * Screenshot of the completed user story:
-![Screenshot 2025-04-12 190952](https://github.com/user-attachments/assets/446933ae-8d60-4d85-96bc-c78cef5d62d7)
+  
+ ![Screenshot 2025-04-12 190952](https://github.com/user-attachments/assets/446933ae-8d60-4d85-96bc-c78cef5d62d7)
 
