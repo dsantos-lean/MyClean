@@ -6,24 +6,24 @@
 * Lean: 1 day 
 * Jeomin: 2 days
 * Dea : 2 days
-* Adithyan: 2 days
+* Adithyan: 1 days
 
 ## Assumptions (if any):
+- Users have a registration-type of "Company"
+- Users have an external company website.
 
 ## Description: 
-Version 1 : I want to display company details in the website.
+- As a user, I want to be able to show customers my cleaning website
 
 ## Tasks.
 
-1. Task Display company website, Estimation i day
-2. Create a company display page for the cleaning company in the website.
-   - Add an about us page for the company.
+1. Task Display company website (1 day)
+2. Create an external link to actual company's website
 
 # UI Design:
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, [https://ninjamock.com/](https://ninjamock.com/)
+
 
 # Completed: 
-* Insert screenshots of completed. [https://ninjamock.com/](https://ninjamock.com/) 
+
   
 
