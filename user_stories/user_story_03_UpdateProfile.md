@@ -36,7 +36,9 @@ As a **registered user**, I want to update my profile details, including static 
 
 # UI Design:
 
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* Screenshot of update profile page: https://ninjamock.com/Designer/Workplace/202376642/Page3
+  ![Screenshot 2025-04-12 193203](https://github.com/user-attachments/assets/9eaadd3b-c96a-4e5d-a6e5-5d7a92a09066)
+
 
 # Completed:
 * Screenshot of completed user story.
