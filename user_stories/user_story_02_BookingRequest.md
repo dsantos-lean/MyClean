@@ -35,6 +35,8 @@ As a user, I want to create a booking request for cleaning services so I can spe
 
 
 # Completed:
-*To do* add a screenshot of the completed user story
+*Screenshot of the completed user story:
+![Screenshot 2025-04-12 190501](https://github.com/user-attachments/assets/65ab49d9-2992-41b8-a609-730e83e0d691)
+
 
 
