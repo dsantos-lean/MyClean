@@ -33,6 +33,6 @@
 ![Screenshot 2025-02-13 145031](https://github.com/user-attachments/assets/48aaa55b-70eb-4bf8-a81f-10c048a85354)
 
 # Completed:
-*Screenshot of the completed user story:
+* Screenshot of the completed user story:
 ![Screenshot 2025-04-12 190952](https://github.com/user-attachments/assets/446933ae-8d60-4d85-96bc-c78cef5d62d7)
 
