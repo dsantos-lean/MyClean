@@ -32,7 +32,7 @@ As a **user**, I want to send and receive payments securely through the platform
 
 # Completed: 
 * Insert screenshots of completed user story.
-  ![Screenshot 2025-04-12 184846](https://github.com/user-attachments/assets/8d320fe5-eb4e-4c1a-8fa4-f05838645049)
+* ![Screenshot 2025-04-12 184846](https://github.com/user-attachments/assets/8d320fe5-eb4e-4c1a-8fa4-f05838645049)
 
 
 
