@@ -24,7 +24,7 @@ As a cleaning company, I want to subscribe to premium listings so that I can get
 ![Screenshot 2025-02-13 141427](https://github.com/user-attachments/assets/8aecc069-ed33-44c1-b3fa-3f2a0cc41b14)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+* Screenshots of completed.
+* ![Screenshot 2025-04-12 191211](https://github.com/user-attachments/assets/1d91e1c4-cb8f-4447-8915-f064a1a4d92c)
+
 
