@@ -18,16 +18,10 @@ As a prospective user or company owner, I want to be able to specify my account 
 
 ## Tasks:
 
-1. Task Cleaner Search and Filter, Estimated 3 days
-2. Create a search functionality / widget (1 day)
-  - Implement search parameters (from booking page)
-  - Display a list of cleaners based on search parameters
-
+1. Create radio buttons to specify if prospective user is a User, Cleaner or Company (2 days)
 
 
 # UI Design:
-* Create a mock up and add screenshot: https://ninjamock.com/Designer/Workplace/202376642/ShoppingPage01
-  ![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/ee0c9d2f-a019-4869-8949-a9f7b88cb2fb)
 
 # Completed:
 * Add a screenshot of the completed user story: 
