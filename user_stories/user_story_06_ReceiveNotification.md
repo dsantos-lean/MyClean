@@ -35,8 +35,9 @@ As an **individual cleaner**, I want to receive notifications when a customer bo
 - Mockup design screenshot for receiving notification. https://ninjamock.com/Designer/Workplace/202376642/ResetPasswordSTEP2
 ![Screenshot 2025-02-13 144304](https://github.com/user-attachments/assets/4b3746c4-b92a-4040-83b6-8051a41072f3)
 
-# Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+# Completed: 
+* Screenshots of completed user story: 
+
+   ![Screenshot 2025-04-12 193655](https://github.com/user-attachments/assets/e157e99c-3fe2-46ed-9175-8ceb60cd0a7e)
+
 
