@@ -23,6 +23,8 @@ As a developer, I want to migrate the website features to a WordPress instance, 
 3. Continue developing on the new website for Iteration 2
 
 # Completed:
+Screenshot of user story: ![Link](https://github.com/user-attachments/assets/81fd7a06-40a1-49e9-ba2a-176d044eb7ea)
+
 
 
 
