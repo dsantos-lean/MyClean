@@ -27,6 +27,8 @@ As a prospective user or company owner, I want to be able to specify my account 
 
 
 # Completed:
-* Add a screenshot of the completed user story: 
+* Screenshot of the completed user story:
+  ![Screenshot 2025-04-12 184453](https://github.com/user-attachments/assets/7d8e163f-7b52-42af-94f2-430f70b07c76)
+
 
 
