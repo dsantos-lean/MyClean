@@ -30,8 +30,9 @@ As a **user**, I want to send and receive payments securely through the platform
 * Mockup design screenshot for Payment system. https://ninjamock.com/Designer/Workplace/202376642/CheckoutPage02
 ![Screenshot 2025-02-25 135801](https://github.com/user-attachments/assets/93b5320f-3ae0-4bf5-8e95-6e70c6040768)
 
-# Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+# Completed: 
+* Insert screenshots of completed user story.
+  ![Screenshot 2025-04-12 184846](https://github.com/user-attachments/assets/8d320fe5-eb4e-4c1a-8fa4-f05838645049)
+
+
 
