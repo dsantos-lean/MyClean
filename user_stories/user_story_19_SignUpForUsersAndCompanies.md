@@ -22,6 +22,9 @@ As a prospective user or company owner, I want to be able to specify my account 
 
 
 # UI Design:
+* Create a mock up and add screenshot: https://ninjamock.com/Designer/Workplace/203697633/SignupPage01
+  ![User and Company Sign Up](https://github.com/user-attachments/assets/b75d5510-9d05-4737-a3ed-84564bb5d4ba)
+
 
 # Completed:
 * Add a screenshot of the completed user story: 
