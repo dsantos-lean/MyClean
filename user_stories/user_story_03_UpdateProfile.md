@@ -35,12 +35,12 @@ As a **registered user**, I want to update my profile details, including static 
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
+
 * Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+* Screenshot of completed user story.
+  ![Screenshot 2025-04-12 190952](https://github.com/user-attachments/assets/a6c93b9c-581c-4ba1-b259-38a93f86ba12)
+
+
 
