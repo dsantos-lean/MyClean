@@ -9,6 +9,8 @@
 *  Dea : 5 days
 * Adithyan: 2 days
 
+## Story Points: 20
+
 ## Assumptions:
 - Website that is currently hosted on Vercel must be migrated onto AWS Lightsail (Wordpress Instance)
 - All previous User Stories to be reimplemented on Wordpress

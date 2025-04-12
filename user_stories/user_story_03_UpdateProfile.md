@@ -8,6 +8,8 @@
 - Dea : 2 days
 - Adithyan: 3 days
 
+## Story Points: 5
+
 ## Assumptions:
 - Users can edit any information provided during onboarding.
 - Availability changes will integrate with the existing availability module from **US01 (Register)**.

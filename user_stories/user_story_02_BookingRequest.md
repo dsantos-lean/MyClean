@@ -8,6 +8,8 @@
 - Dea : 1 day
 - Adithyan: 2 days
 
+## Story Points: 3
+
 ## Assumptions:
 - Users will see a button to a booking form on the home page
 - Users have an idea of what type of cleaning service they need

@@ -8,6 +8,8 @@
 - Dea: 2 days  
 - Adithyan: 3 days  
 
+## Story Points: 13
+
 ## Assumptions:
 - Employees will update their task status on the platform in real time.  
 - Tasks will be assigned to employees by the cleaning company through the system.  

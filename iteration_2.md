@@ -30,23 +30,25 @@ User stories or tasks (see chapter 4):
 
 In progress:
 * Task-2 (developer name or initials), date started
-* [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), (LeanDS), 31/03/2025
-* [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Lean DS), 31/03/2025
+* [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), (LeanDS), 1/4/2025
+* [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Lean DS)
 * [user_story_09_Report And Refund Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), (Jeomin), 31/03/2025
 * [user_story_12_Display Company Website](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), (Adithyan), 31/03/2025
 * [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), (DeaRoys), 31/03/2025
-* User story 19 - Sign up for users (Adithyan), 31/03/2025
-* User story 21 - Sign up for companies (Adithyan), 31/03/2025
+* User story 19 - Sign up for users (Lean DS), 6/4/2025
+* [user_story_20_Migration of Website to AWS Lightsail](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_20_MigrationOfWebsiteToAWSLightsail.md), (LeanDS), 1/4/2025
+* User story 21 - Sign up for companies (Lean DS), 6/4/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
-* [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), (LeanDS),
-* [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Lean DS), 
-* [user_story_09_Report And Refund Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), (Jeomin), 
-* [user_story_12_Display Company Website](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), (Adithyan), 
+* [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), (LeanDS), 3/4/2025
+<!-- * [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Lean DS),  -->
+<!-- * [user_story_09_Report And Refund Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), (Jeomin), 
+* [user_story_12_Display Company Website](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), (Adithyan),  -->
 * [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), (DeaRoys), 1/04/2025
-* User story 19 - Sign up for users (Adithyan), 
-* User story 21 - Sign up for companies (Adithyan),
+* User story 19 - Sign up for users (Lean DS), 6/4/2025
+* [user_story_20_Migration of Website to AWS Lightsail](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_20_MigrationOfWebsiteToAWSLightsail.md), (LeanDS), 7/4/2025
+* User story 21 - Sign up for companies (Lean DS), 6/4/2025
   
 ### Burn Down for iteration-2 (see chapter 4):
 Update this at least once per week

@@ -8,6 +8,8 @@
 - Dea: 1 day  
 - Adithyan: 3 days  
 
+## Story Points: 8
+
 ## Assumptions:
 - Customers will rate and review cleaners after completing a service.  
 - Ratings are numeric (e.g., 1 to 5 stars) and reviews are optional written feedback.  

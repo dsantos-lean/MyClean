@@ -9,6 +9,9 @@
 *  Dea : 2 days
 * Adithyan: 2 days
 
+## Story Points: 5
+
+
 ## Assumptions:
 - Users have an internet access
 - User to be registered is not a cleaner.(will not provide services)

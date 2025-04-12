@@ -8,6 +8,8 @@
 - Dea : 2 days
 * Adithyan: 4 days
 
+## Story Points: 13
+
 ## Assumptions (if any):
 
 ## Description: 

@@ -9,6 +9,9 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 *  Dea : 2 days
 * Adithyan: 3 days
 
+## Story Points: 8
+
+
 ## Assumptions:
 - User has used the booking page to book a specific service
 - Results are filtered from user specified inputs (Type, address, date)

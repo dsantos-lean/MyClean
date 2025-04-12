@@ -9,6 +9,8 @@
 - Dea: 2 days  
 - Adithyan: 3 days  
 
+## Story Points: 5
+
 ## Assumptions:
 - Cleaners will have access to a user-friendly interface to set their availability.
 - Availability includes selecting specific days of the week and defining working hours for each day.

@@ -8,6 +8,8 @@
 - Dea : 1 day
 - Adithyan: 1 day
 
+## Story Points: 3
+
 ## Assumptions:
 - Users have internet access
 - Users will provide accurate and complete information.

@@ -8,6 +8,8 @@
 * Dea : 2 days
 * Adithyan: 1 days
 
+## Story Points: 3
+
 ## Assumptions (if any):
 - Users have a registration-type of "Company"
 - Users have an external company website.

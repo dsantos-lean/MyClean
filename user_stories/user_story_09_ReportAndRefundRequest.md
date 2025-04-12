@@ -8,6 +8,8 @@
 - Dea: 4 days  
 - Adithyan: 3 days  
 
+## Story Points: 20
+
 ## Assumptions:
 - Customers will have access to a dedicated section in the app to report issues and request refunds.  
 - Reports will require submission of details such as the nature of the issue, booking ID, and optionally, supporting evidence (e.g., photos).  

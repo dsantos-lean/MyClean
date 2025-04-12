@@ -8,6 +8,8 @@
 - Dea: 2 days  
 - Adithyan: 3 days  
 
+## Story Points: 5
+
 ## Assumptions:
 - Users will have a login before accessing the payment section.
 - Payments are tied to specific user accounts to track transactions effectively.

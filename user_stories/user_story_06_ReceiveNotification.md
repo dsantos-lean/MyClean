@@ -8,6 +8,8 @@
 - Dea: 2 days  
 - Adithyan: 3 days  
 
+## Story Points: 8
+
 ## Assumptions:
 - Notifications will be triggered automatically when a customer books services through the platform.
 - Notifications will include basic details about the booking (e.g., customer name, date, time, and service type).
