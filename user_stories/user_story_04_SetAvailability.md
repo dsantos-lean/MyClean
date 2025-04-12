@@ -26,7 +26,6 @@ As a **registered cleaner**, I want to set my available days and hours so that c
 ![Screenshot 2025-02-13 111335](https://github.com/user-attachments/assets/2e112e52-f399-42ae-97ae-232f60a1e144)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+* Screenshots of completed user story. 
+ ![Screenshot 2025-04-12 191547](https://github.com/user-attachments/assets/e824bc7a-6a8a-4455-9395-e266665afbc9)
 
