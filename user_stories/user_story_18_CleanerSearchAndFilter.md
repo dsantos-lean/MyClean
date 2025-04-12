@@ -30,6 +30,8 @@ As a customer, I want the ability to search and filter available cleaners when m
   ![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/ee0c9d2f-a019-4869-8949-a9f7b88cb2fb)
 
 # Completed:
-* Add a screenshot of the completed user story: 
+* Screenshot of the completed user story:
+  ![Screenshot 2025-04-12 184822](https://github.com/user-attachments/assets/a3828895-0fa9-4c5b-89f9-563b7f349aeb)
+
 
 
