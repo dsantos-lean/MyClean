@@ -41,8 +41,9 @@ As a **registered user**, I want to update my profile details, including static 
 
 
 # Completed:
-* Screenshot of completed user story.
-  ![Screenshot 2025-04-12 190952](https://github.com/user-attachments/assets/a6c93b9c-581c-4ba1-b259-38a93f86ba12)
+* Screenshot of completed user story:
+  
+ ![Screenshot 2025-04-12 190952](https://github.com/user-attachments/assets/a6c93b9c-581c-4ba1-b259-38a93f86ba12)
 
 
 
