@@ -26,5 +26,6 @@ As a customer, I want to communicate with cleaners without providing my email or
 
 
 # Completed:
-* Insert screenshots of completed.  ![Screenshot 2025-02-13 142131](https://github.com/user-attachments/assets/9bc0cc91-3428-40c6-aa3d-2cc9a80ec96b)
+* Screenshots of completed user story:
+![Screenshot 2025-04-12 190712](https://github.com/user-attachments/assets/d217d4ae-d4f2-4d9d-be5b-a5c96ebce41b)
 
