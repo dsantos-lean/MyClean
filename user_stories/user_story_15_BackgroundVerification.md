@@ -24,5 +24,7 @@ As a customer, I want to know that the cleaners have undergone background checks
 ![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/32ad9f2d-b75b-4072-ad48-b00713d4b196)
 
 # Completed:
-* Insert screenshots of completed.![Screenshot 2025-03-01 155008](https://github.com/user-attachments/assets/32ad9f2d-b75b-4072-ad48-b00713d4b196)
+* Screenshots of completed user story:
+  ![Screenshot 2025-04-12 194027](https://github.com/user-attachments/assets/34021d9e-2289-4bdc-b8b5-658e5a95df9e)
+
 
