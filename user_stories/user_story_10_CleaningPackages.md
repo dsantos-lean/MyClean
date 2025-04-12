@@ -27,7 +27,7 @@ Add basic styling for user experience
 ![Screenshot 2025-03-01 162402](https://github.com/user-attachments/assets/85a6cc6a-bf0f-48bb-862c-acf532448944)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+* Screenshots of completed user story. 
+ ![Screenshot 2025-04-12 191406](https://github.com/user-attachments/assets/22a64968-410e-452c-a11b-722ee30dc0b2)
+
 
