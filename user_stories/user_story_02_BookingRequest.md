@@ -15,7 +15,7 @@
 ## Description: 
 As a user, I want to create a booking request for cleaning services so I can specify the type of service I need.
 
-## Tasks, see chapter 4.
+## Tasks:
 
 1. Create a booking button on the home page (half day)
 2. Develop a booking page / form (half day)

@@ -15,14 +15,14 @@
 - Notifications or confirmation messages will be provided to users upon successful profile updates.
 
 
-## Description
+## Description:
 As a **registered user**, I want to update my profile details, including static information (e.g., name, skills, contact info) and dynamic details (e.g., availability), so that my profile remains current and accurate for customers.
 
 
-## Tasks, see chapter 4.
+## Tasks:
 
 1. Implement Profile Update Interface (half day)
-    - Interface to edit statif profile details (contact info, service areas)
+    - Interface to edit static profile details (contact info, service areas)
     - Integrate dynamic updates for availability settings
 2. Design update success notification (1 day)
     - Provide confirmation message or notification upon successful update

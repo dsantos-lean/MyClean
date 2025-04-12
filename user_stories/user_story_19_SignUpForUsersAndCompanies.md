@@ -1,20 +1,20 @@
-# User story title: Cleaner Search and Filter
+# User story title: Sign Up for Users and Companies
 
-## Priority: 10 
+## Priority: 20
 
-## Estimation: 3 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
+## Estimation: 2 days
+
 * Lean: 3 days
 * Jeomin: 2 days
 *  Dea : 2 days
-* Adithyan: 3 days
+* Adithyan: 2 days
 
 ## Assumptions:
-- User has used the booking page to book a specific service
-- Results are filtered from user specified inputs (Type, address, date)
+- Users have an internet access
+- User to be registered is not a cleaner.(will not provide services)
 
 ## Description: 
-As a customer, I want the ability to search and filter available cleaners when making a booking, so I can choose from well-performing cleaners.
+As a prospective user or company owner, I want to be able to specify my account type on registration.
 
 ## Tasks:
 
