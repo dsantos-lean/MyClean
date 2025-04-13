@@ -78,7 +78,7 @@ Total: 9 days
 1. [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), priority 30, 2 days 
 2. [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority 40, 4 days
 3. [user story 19 - Sign up for users]
-4. [user_story_20_Migration of Website to AWS Lightsail], 
+4. [user_story_20_Migration of Website to AWS Lightsail](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_20_MigrationOfWebsiteToAWSLightsail.md), priority  , days
 5. [user story 21 - Sign up for companies] 
 
 Total: YY days
