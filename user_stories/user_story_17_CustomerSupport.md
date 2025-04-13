@@ -2,11 +2,14 @@
 
 ## Priority: 40 
 
+
 ## Estimation: 2.5 days
 * Lean: 3 days
 * Jeomin: 2 days
 * Dea : 2 days
 * Adithyan: 3 days
+
+## Story Points: 7
 
 ## Assumptions (if any):
 

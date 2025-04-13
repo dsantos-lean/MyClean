@@ -4,9 +4,10 @@ Checklist:
 1. github entry timestamps
 2. User stories are correct: see p39
 
-* Assumed Velocity: ?? 
-* Number of developers: 4
-* Total estimated amount of work: YY days
+* Assumed Velocity: 70%
+* Number of developers: 4 people
+* Working days in this iteration: 22 days
+* Total estimated amount of work: 61.6 days (what our team can handle in one iteration)
 
 User stories:
 1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority 10, 1 day 
@@ -33,14 +34,16 @@ In progress:
 * Task-2 (developer name or initials), date started
 1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), LeanDS, 28/02/2025 
 2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md),Lean DS,28/02/2025
+2.5 [user_story_21_Onboarding]
 3. [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md),LeanDS, DeaRoys, 28/03/2025
 4. [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md), DeaRoys,28/02/2025
 5. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md),DeaRoys, 28/02/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
-1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md),LeanDS, 21/03/2025 
-2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md),LeanDS,21/03/2025
+1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md),LeanDS, 14/03/2025 
+2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md),LeanDS,14/03/2025
+2.5 [user_story_21_Onboarding]
 3. [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md),LeanDS, DeaRoys, 21/03/2025
 4. [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md),DeaRoys, 21/03/2025
 5. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md),DeaRoys, 21/03/2025
@@ -49,8 +52,8 @@ Completed:
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+* 4 weeks left, 0 User stories completed
+* 2 weeks left, 2 User stories completed (6 Story Pts.)
+* 1 weeks left, 4 User stories completed (23 Story Pts.)
+* 0 weeks left, Refining, cleanup, testing
+* Actual Velocity: 14.5
