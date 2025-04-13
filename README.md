@@ -44,9 +44,11 @@ Group members:
 * [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority 40, 4 days 
 * [user_story_17_Customer Support](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_17_CustomerSupport.md), priority 40, 2.5 days 
 * [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority 10, 3 days  
-* [user_story_19_Sign up for users and companies](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md)
+*[user_story_19_Sign up for users and companies](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md), priority 20, 2 days
+* [user_story_20_Migration of Website to AWS Lightsail](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_20_MigrationOfWebsiteToAWSLightsail.md),priority 10  ,5 days
+* [user story 21 - Sign up for companies](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md), priority 20, 2 days
 
-Total: 46.5 days
+Total: 55.5 days
 
 
 # Assignment-2: Iterations
