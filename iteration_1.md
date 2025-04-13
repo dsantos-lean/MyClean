@@ -34,26 +34,26 @@ In progress:
 * Task-2 (developer name or initials), date started
 1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), LeanDS, 28/02/2025 
 2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md),Lean DS,28/02/2025
-2.5 [user_story_21_Onboarding](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_21_Onboarding.md),Lean DS,28/02/2025
-3. [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md),LeanDS, DeaRoys, 28/03/2025
-4. [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md), DeaRoys,28/02/2025
-5. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md),DeaRoys, 28/02/2025
+3. [user_story_21_Onboarding](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_21_Onboarding.md),Lean DS,28/02/2025
+4. [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md),LeanDS, DeaRoys, 28/03/2025
+5. [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md), DeaRoys,28/02/2025
+6. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md),DeaRoys, 28/02/2025
 
 Completed:
 * Task-3 (developer name or initials), date completed
 1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md),LeanDS, 14/03/2025 
 2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md),LeanDS,14/03/2025
-2.5 [user_story_21_Onboarding](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_21_Onboarding.md),Lean DS,28/02/2025
-3. [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md),LeanDS, DeaRoys, 21/03/2025
-4. [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md),DeaRoys, 21/03/2025
-5. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md),DeaRoys, 21/03/2025
+3. [user_story_21_Onboarding](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_21_Onboarding.md),Lean DS,28/02/2025
+4. [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md),LeanDS, DeaRoys, 21/03/2025
+5. [user_story_05_Payments](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_05_Payments.md),DeaRoys, 21/03/2025
+6. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md),DeaRoys, 21/03/2025
 
 
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
-* 4 weeks left, 0 User stories completed
-* 2 weeks left, 2 User stories completed (6 Story Pts.)
-* 1 weeks left, 4 User stories completed (23 Story Pts.)
-* 0 weeks left, Refining, cleanup, testing
-* Actual Velocity: 14.5
+* 1st week, 0 User stories completed
+* 2nd week, 2 User stories completed (6 Story Pts.)
+* 3rd week, 4 User stories completed (23 Story Pts.)
+* 4th week, Refining, cleanup, testing
+* Actual Velocity: 14.5 (needed for Iteration 2)
