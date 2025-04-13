@@ -44,6 +44,7 @@ Group members:
 * [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority 40, 4 days 
 * [user_story_17_Customer Support](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_17_CustomerSupport.md), priority 40, 2.5 days 
 * [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority 10, 3 days  
+* [user_story_19_Sign up for users and companies](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md)
 
 Total: 46.5 days
 
