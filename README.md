@@ -23,16 +23,6 @@ Group members:
 - Understanding the project requirements.
 - Creating user stories.
 
-
-Checklist/TODOs: 
-* Update the following during each week prac session
-* github entry timestamp is BEFORE the iteration-1
-* User stories are correct: see p39
-* Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-* ...
-
-Total: 2 days
 ## Week 3
 - Start working on user stories in Kanban board.
 
@@ -61,7 +51,7 @@ Total: 2 days
 * [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority 10, 3 days  
 
 
-
+Total: xx days
 
 
 # Assignment-2: Iterations
@@ -85,8 +75,11 @@ Total: 9 days
 
 * [Link to iteration_2.md](https://github.com/dsantos-lean/MyClean-copy/blob/main/iteration_2.md)
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1. [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), priority 30, 2 days 
+2. [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority 40, 4 days
+3. [user story 19 - Sign up for users]
+4. [user_story_20_Migration of Website to AWS Lightsail], 
+5. [user story 21 - Sign up for companies] 
 
 Total: YY days
 
