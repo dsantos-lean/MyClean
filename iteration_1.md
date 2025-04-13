@@ -1,4 +1,4 @@
-# Actual iteration-1 board, (see chapters 3 and 4), add your start and end dates 
+# Actual iteration-1 board, Start Date: 27-Feb | End Date: 28-Mar
 
 Checklist: 
 1. github entry timestamps
@@ -28,6 +28,7 @@ User stories:
 16. [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority 40, 4 days 
 17. [user_story_17_Customer Support](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_17_CustomerSupport.md), priority 40, 2.5 days 
 18. [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority 10, 3 days 
+19. [user_story_21_Onboarding](https://github.com/dsantos-lean/MyClean/blob/main/user_stories/user_story_21_Onboarding.md)
 
 
 In progress:
