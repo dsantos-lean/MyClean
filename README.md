@@ -53,7 +53,7 @@ Total: 55.5 days
 
 # Assignment-2: Iterations
 
-## Iteration 1 [duration 3-4 weeks], Start Date: 27-Feb | End Date: 28-Mar
+## Iteration 1, Start Date: 27-Feb | End Date: 28-Mar
 
 * [Link to iteration_1.md](https://github.com/dsantos-lean/MyClean-copy/blob/main/iteration_1.md)
 * Goal is to have 2 iterations during a trimester of teaching.
@@ -68,7 +68,7 @@ Total: 55.5 days
 Total: 9 days
 
 
-### Iteration 2 [duration 3-4 weeks], add your start and end dates
+### Iteration 2, Start Date: 28-Feb | End Date: 13-April
 
 * [Link to iteration_2.md](https://github.com/dsantos-lean/MyClean-copy/blob/main/iteration_2.md)
 
