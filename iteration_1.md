@@ -57,3 +57,7 @@ Update this at least once per week
 * 3rd week, 4 User stories completed (23 Story Pts.)
 * 4th week, Refining, cleanup, testing
 * Actual Velocity: 14.5 (needed for Iteration 2)
+
+
+### Burn Down Chart
+![Iteration 1 Burn Down](image.png)
