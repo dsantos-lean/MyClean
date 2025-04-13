@@ -1,8 +1,3 @@
-
-How to edit this: 
-* Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
-* Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
-
 # cp3407-Project-v2024  
 
 ## Team
@@ -50,8 +45,7 @@ Group members:
 * [user_story_17_Customer Support](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_17_CustomerSupport.md), priority 40, 2.5 days 
 * [user_story_18_Cleaner Search And Filter](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_18_CleanerSearchAndFilter.md), priority 10, 3 days  
 
-
-Total: xx days
+Total: 46.5 days
 
 
 # Assignment-2: Iterations
