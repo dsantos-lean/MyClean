@@ -32,7 +32,7 @@ As a user, I want to create a booking request for cleaning services so I can spe
 
 
 # UI Design:
-* Create a mock up and add screenshot:
+* A mock up and add screenshot:
   ![booking_request](https://github.com/user-attachments/assets/d28d3e18-58d0-40f2-b47f-6687589d11ad)
 
 
