@@ -8,6 +8,8 @@ Group members:
 3. Dea Roys
 4. Adithyan Jayan
 
+## UML Diagram
+Link to our UML diagrams [here]()
 
 # Assignment-1: project planning BEFORE iteration-1
 ## Week 1
