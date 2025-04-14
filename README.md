@@ -1,4 +1,4 @@
-# cp3407-Project-v2024  
+# cp3407-Project-v2025
 
 ## Team
 
@@ -57,9 +57,7 @@ Total: 55.5 days
 
 * [Link to iteration_1.md](https://github.com/dsantos-lean/MyClean-copy/blob/main/iteration_1.md)
 * Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
-
+* User stories for iteration 1:
 1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority 10, 1 day 
 2. [user_story_02_Booking Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_02_BookingRequest.md), priority 10, 1 day
 3. [user_story_04_Set Availability](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_04_SetAvailability.md), priority 20, 2 days 
