@@ -5,6 +5,7 @@
 ### 1. Sequence Diagram: Booking a Cleaning Service
 ### The sequence diagram illustrates the process of a user booking a cleaning service through the website.
 
+![Sequence](https://github.com/user-attachments/assets/7050c9b7-dd60-4237-b9e5-a25cea120714)
 
 #### Breakdown:
 1. User Accesses Website: The user begins by accessing the website's homepage.
@@ -20,13 +21,16 @@
 11. Redirect to Payment: The cleaner list page redirects the user to the payment page.
 12. Enter Payment Details: The user enters their payment details on the payment page.
 13. Process Transaction: The payment page processes the transaction by interacting with the database.
-14. Booking Confirmation: The database sends a booking confirmation to the user. _Not implemented_
+14. Booking Confirmation: The database sends a booking confirmation to the user. __Not implemented__
 15. Logout (Optional): The user may choose to log out of the website.
 
 
 
 ### 2. Class Diagram: System Entities
 ### The class diagram describes the main entities (classes) within the system and their relationships.
+
+![Class](https://github.com/user-attachments/assets/3a738c13-b051-44a8-af74-26aafef471c7)
+
 
 #### Breakdown:
 1. Class Descriptions:User: Represents a user of the system. Attributes include avatar, username, password, name, email, and role. Operations include register(), login(), updateProfile(), and logout().
