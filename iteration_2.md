@@ -54,3 +54,8 @@ Incomplete (not enough Time):
 * 1 weeks left, 2 user stories completed (23 Story Points)
 * Incomplete, 2 user stories (US8: 13 SP, US22: 3 SP)
 * Actual Velocity: 33 Story Points Per Week
+
+
+### Burn Down Chart
+![Iteration 2](https://github.com/user-attachments/assets/0db3c290-6973-41f7-805d-61e0382431e1)
+
