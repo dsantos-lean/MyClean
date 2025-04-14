@@ -7,7 +7,7 @@ Checklist:
 * Assumed Velocity FROM iteration-1: 14.5 Story Points (per week) = 29 Story Points - based off of iteration 1 where we had 2 active developers
 * Number of developers: 4 (14.5 SP each avg) = 58 SP total
 * Working days in this iteration: 11 days
-* Total estimated amount of work: 13 + 10  days or 63 + 16 Story Points 
+* Total estimated amount of work: 82 Story Points
 
 User stories or tasks (see chapter 4):
 1. [user_story_01_Register And Create Profile](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_01_RegisterAndCreateProfile.md), priority 10, 1 day 
@@ -56,5 +56,5 @@ Incomplete (not enough Time):
 Update this at least once per week
 * 2 weeks left, 4 user stories completed (43 Story Points)
 * 1 weeks left, 2 user stories completed (23 Story Points)
-* Incomplete, 2 user stories (US8: 13 SP, US2: 3 SP)
+* Incomplete, 2 user stories (US8: 13 SP, US22: 3 SP)
 * Actual Velocity: 33 Story Points Per Week
