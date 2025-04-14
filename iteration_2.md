@@ -1,8 +1,4 @@
-# Actual iteration-2 board, (see chapters 3 and 4), 29/03/2025 to 14/04/2025
-
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
+# Actual iteration-2 board, 29/03/2025 to 14/04/2025
 
 * Assumed Velocity FROM iteration-1: 14.5 Story Points (per week) = 29 Story Points - based off of iteration 1 where we had 2 active developers
 * Number of developers: 4 (14.5 SP each avg) = 58 SP total
@@ -52,8 +48,8 @@ Completed:
 Incomplete (not enough Time):
 * [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Lean DS)
 
-### Burn Down for iteration-2 (see chapter 4):
-Update this at least once per week
+### Burn Down for iteration-2:
+
 * 2 weeks left, 4 user stories completed (43 Story Points)
 * 1 weeks left, 2 user stories completed (23 Story Points)
 * Incomplete, 2 user stories (US8: 13 SP, US2: 3 SP)
