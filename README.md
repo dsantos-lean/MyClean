@@ -82,7 +82,7 @@ Total: 15 days
 ### Not enough time/developers: 
 1. * [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), priority 40, 4 days
 
-Total: YY days
+Total: 4 days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
