@@ -9,7 +9,7 @@ Group members:
 4. Adithyan Jayan
 
 ## UML Diagram
-Link to our UML diagrams [here]()
+Link to our UML diagrams [here](https://github.com/dsantos-lean/MyClean/edit/main/docs/diagrams/uml_diagrams.md)
 
 # Assignment-1: project planning BEFORE iteration-1
 ## Week 1
