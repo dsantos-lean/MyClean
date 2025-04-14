@@ -1,9 +1,5 @@
 # Actual iteration-1 board, Start Date: 27-Feb | End Date: 28-Mar
 
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
-
 * Assumed Velocity: 70%
 * Number of developers: 4 people
 * Working days in this iteration: 22 days
@@ -52,7 +48,7 @@ Completed:
 
 
 ### Burn Down for iteration-1 (see chapter 4):
-Update this at least once per week
+
 * 1st week, 0 User stories completed
 * 2nd week, 2 User stories completed (6 Story Pts.)
 * 3rd week, 4 User stories completed (23 Story Pts.)
