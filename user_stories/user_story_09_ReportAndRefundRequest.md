@@ -39,7 +39,7 @@ As a **customer**, I want to report service issues and request refunds if the qu
 
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+* Screenshots of completed user story:
+* <img width="281" alt="image" src="https://github.com/user-attachments/assets/a3ea12ae-b770-46aa-963c-a4bd9e88817b" />
+ 
 
