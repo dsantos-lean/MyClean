@@ -68,26 +68,28 @@ Total: 55.5 days
 Total: 9 days
 
 
-### Iteration 2, Start Date: 28-Feb | End Date: 13-April
+### Iteration 2, Start Date: 28-Feb | End Date: 14-April
 
 * [Link to iteration_2.md](https://github.com/dsantos-lean/MyClean-copy/blob/main/iteration_2.md)
 
-1. [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), priority 30, 2 days 
-2. [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), priority 40, 4 days
-3. [user story 19 - Sign up for users](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md),priority 20, 2 days
-4. [user_story_20_Migration of Website to AWS Lightsail](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_20_MigrationOfWebsiteToAWSLightsail.md),priority 10  ,5 days
-5. [user story 21 - Sign up for companies](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md), priority 20, 2 days
+1. [user_story_03_Update](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_03_Update.md), (LeanDS), 3/4/2025
+2. [user_story_12_Display Company Website](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_12_DisplayCompanyWebsite.md), (Lean DS), 13/04/2025
+3. [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), (DeaRoys), 1/04/2025
+4. [user_story_09_Report And Refund Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), (Jeomin),
+5. [user_story_19_SignUpForUsersAndCompanies.md](https://github.com/dsantos-lean/MyClean/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md)(Adithyan), 6/4/2025
+6. [user_story_20_Migration of Website to AWS Lightsail](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_20_MigrationOfWebsiteToAWSLightsail.md), (LeanDS), 7/4/2025
 
 Total: 15 days
 
 ### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1. * [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), priority 40, 4 days
 
 Total: YY days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
+    - See our __Iteration 1__ Kanban / Project board [here](https://github.com/users/dsantos-lean/projects/2)
 2. [Iteration-2](./iteration_2.md)
+    - See our __Iteration 2__ Kanban / Project board [here](https://github.com/users/dsantos-lean/projects/3)
 
 

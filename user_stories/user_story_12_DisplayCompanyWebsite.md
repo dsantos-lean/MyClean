@@ -22,7 +22,6 @@
 1. Task Display company website (1 day)
 2. Create an external link to actual company's website
 
-# UI Design:
 
 
 # Completed: 
