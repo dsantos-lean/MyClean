@@ -57,5 +57,6 @@ Incomplete (not enough Time):
 
 
 ### Burn Down Chart
-![Iteration 2](https://github.com/user-attachments/assets/0db3c290-6973-41f7-805d-61e0382431e1)
+![Iteration 2](https://github.com/user-attachments/assets/49501d44-190a-459c-ba7e-c76b6e34189d)
+
 
