@@ -9,7 +9,7 @@ Group members:
 4. Adithyan Jayan
 
 ## UML Diagram
-Link to our UML diagrams [here]()
+Link to our UML diagrams [here](https://github.com/dsantos-lean/MyClean/edit/main/docs/diagrams/uml_diagrams.md)
 
 # Assignment-1: project planning BEFORE iteration-1
 ## Week 1
@@ -90,8 +90,10 @@ Total: 4 days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
+    - Our website for iteration 1 [here](https://my-clean-copy.vercel.app/docs/)
     - See our __Iteration 1__ Kanban / Project board [here](https://github.com/users/dsantos-lean/projects/2)
-2. [Iteration-2](./iteration_2.md)
+3. [Iteration-2](./iteration_2.md)
+    - Our website for iteration 2 [here](http://3.27.120.57/)
     - See our __Iteration 2__ Kanban / Project board [here](https://github.com/users/dsantos-lean/projects/3)
 
 

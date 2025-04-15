@@ -53,5 +53,11 @@ Incomplete (not enough Time):
 ### Burn Down for iteration-2:
 
 * 2 weeks left, 4 user stories completed (43 Story Points)
-* 1 weeks left, 4 user stories completed (39 Story Points)
+* 1 week left, 4 user stories completed (39 Story Points)
 * Actual Velocity: 41 Story Points Per Week
+
+
+### Burn Down Chart
+![Iteration 2](https://github.com/user-attachments/assets/49501d44-190a-459c-ba7e-c76b6e34189d)
+
+
