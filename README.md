@@ -78,12 +78,12 @@ Total: 9 days
 4. [user_story_09_Report And Refund Request](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_09_ReportAndRefundRequest.md), (Jeomin),
 5. [user_story_19_SignUpForUsersAndCompanies.md](https://github.com/dsantos-lean/MyClean/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md)(Adithyan), 6/4/2025
 6. [user_story_20_Migration of Website to AWS Lightsail](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_20_MigrationOfWebsiteToAWSLightsail.md), (LeanDS), 7/4/2025
+7. [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Jeomin), 14/04/2025
+8. [user_story_22_UserDashboard.md](https://github.com/dsantos-lean/MyClean/blob/main/user_stories/user_story_22_UserDashboard.md), (Jeomin), 14/04/2025
 
 Total: 15 days
 
 ### Not enough time/developers: 
-1. * [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), priority 40, 4 days
-2. * [user_story_22_UserDashboard.md](https://github.com/dsantos-lean/MyClean/blob/main/user_stories/user_story_22_UserDashboard.md), priority 10, 1 day
 
 
 Total: 4 days
@@ -96,4 +96,5 @@ Total: 4 days
     - Our website for iteration 2 [here](http://3.27.120.57/)
     - See our __Iteration 2__ Kanban / Project board [here](https://github.com/users/dsantos-lean/projects/3)
 
-
+# Presentation video
+- Link to our presentation video [here](https://youtu.be/xLC82nf4wqw)
