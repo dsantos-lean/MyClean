@@ -44,13 +44,14 @@ Completed:
 * [user_story_16_Private Communication](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_16_PrivateCommunication.md), (DeaRoys), 1/04/2025
 * [user_story_19_SignUpForUsersAndCompanies.md](https://github.com/dsantos-lean/MyClean/blob/main/user_stories/user_story_19_SignUpForUsersAndCompanies.md)(Adithyan), 6/4/2025
 * [user_story_20_Migration of Website to AWS Lightsail](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_20_MigrationOfWebsiteToAWSLightsail.md), (LeanDS), 7/4/2025
+* [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Jeomin), 14/04/2025
+* [user_story_22_UserDashboard.md](https://github.com/dsantos-lean/MyClean/blob/main/user_stories/user_story_22_UserDashboard.md), (Jeomin), 14/04/2025
 
 Incomplete (not enough Time):
-* [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), (Lean DS)
+
 
 ### Burn Down for iteration-2:
 
 * 2 weeks left, 4 user stories completed (43 Story Points)
-* 1 weeks left, 2 user stories completed (23 Story Points)
-* Incomplete, 2 user stories (US8: 13 SP, US22: 3 SP)
-* Actual Velocity: 33 Story Points Per Week
+* 1 weeks left, 4 user stories completed (39 Story Points)
+* Actual Velocity: 41 Story Points Per Week

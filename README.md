@@ -83,6 +83,8 @@ Total: 15 days
 
 ### Not enough time/developers: 
 1. * [user_story_08_Task Monitoring](https://github.com/dsantos-lean/MyClean-copy/blob/main/user_stories/user_story_08_TaskMonitoring.md), priority 40, 4 days
+2. * [user_story_22_UserDashboard.md](https://github.com/dsantos-lean/MyClean/blob/main/user_stories/user_story_22_UserDashboard.md), priority 10, 1 day
+
 
 Total: 4 days
 
